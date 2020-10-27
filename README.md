@@ -18,15 +18,16 @@
 
 This repo is where we host our open-source website and soon to be member hub.
 
-## Contributing
+## Contribution
 
-> To get started...
+If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself.
 
-1. 🍴 [Fork](https://github.com/techqueria/website#fork-destination-box) this repository
-2. 🔨 View our [contributing guidelines](.github/CONTRIBUTING.md)
-3. 🎉 [Open a new pull request](https://github.com/techqueria/website/compare) and get it approved!
-
-You can even [report a bug or request a feature](https://github.com/techqueria/website/issues/new/choose) - any little bit of help counts! 😊
+1. Fork it (<https://github.com/techqueria/website#fork-destination-box>)
+2. Clone it ( `git clone https://github.com/techqueria/website#fork-destination-box.git` )
+3. Create your feature branch ( `git checkout -b feature/fooBar` )
+4. Commit your changes ( `git commit -am 'Add some fooBar'` )
+5. Push to the branch ( `git push origin feature/fooBar` )
+6. Create a new Pull Request
 
 ## Code of Conduct
 
